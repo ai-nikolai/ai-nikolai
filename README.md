@@ -1,15 +1,16 @@
 👋 Hi there!
 ----------
 
-I am a CS PhD student in LLMs & LLM agents at **Imperial College London** with **Marek Rei**. That's my latest work: [StateAct](https://arxiv.org/abs/2410.02810), which outperforms ReAct by ~10%-30%.
-
+<!-- I am a CS PhD student in LLMs & LLM agents at **Imperial College London** with **Marek Rei**. That's my latest work: [StateAct](https://arxiv.org/abs/2410.02810), which outperforms ReAct by ~10%-30%.
+-->
 Checkout my website: [nikolairozanov.com](https://nikolairozanov.com)
 
 I work on:
 
-  - 🧠 LLM Reasoning
-  - 🛠️ LLMs + Tools
   - 🤖 LLM agents
+  - 🧠 LLM Reasoning
+  - 💻 Coding LLMs
+  - 🛠️ LLMs + Tools
 <!--
 Specifically, investigating 🔭:
 1. How to acquire new skills (automatically) for LLM Agents.
